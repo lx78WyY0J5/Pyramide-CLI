@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Pyramide-CLI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pyramide_CLI_jar</output-path>
+    <root id="archive" name="Pyramide-CLI.jar">
+      <element id="module-output" name="Pyramide-CLI" />
+    </root>
+  </artifact>
+</component>
